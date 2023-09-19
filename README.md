@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **topics in statistics and programming in R**
 
-- 📫 How to reach me **anahizarate102@gmail.com**
-
 - ⚡ Fun fact **I have fun in the mechanical games**
 
 ### Blogs posts
