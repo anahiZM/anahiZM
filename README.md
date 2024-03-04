@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anahí Zárate</h1>
+<h1 align="center">Hi 👋!!!, I'm Anahí Zárate :)</h1>
 <h3 align="center">A passionate data scientist from Mexico</h3>
 
 - 🌱 I’m currently learning **Machine Learning & artificial intelligence**
